@@ -57,7 +57,6 @@ brew install --cask snipaste
 brew install --cask sublime-text
 brew install --cask tencent-lemon
 brew install --cask wpsoffice
-brew install --cask adrive
 brew install --cask mailmaster
 brew install --cask neteasemusic
 brew install --cask wechat
@@ -82,16 +81,39 @@ alias gitapl='find . -type d -name .git -exec sh -c "cd \"{}\"/../; echo \"\n`pw
 ```
 
 - [Cisco AnyConnect Secure Mobility Client](https://download.syxrzs.cn/anyconnect-4.8.00175.dmg)
-
 - [DataGrip](https://www.jetbrains.com/datagrip/download/#section=mac)
-
 - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/?section=mac)
-
-- [Typora]( https://github.com/iuxt/src/releases/download/2.0/typora-0-11-18.dmg)
+- [Typora](https://github.com/iuxt/src/releases/download/2.0/typora-0-11-18.dmg)
 
 ## Windows
 
-TODO
+- [1password](https://1password.com/zh-cn/downloads/windows/)
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
+- [Everything](https://www.voidtools.com/zh-cn/downloads/)
+- [Eudic](https://www.eudic.net/v4/en/app/download)
+- [Google Chrome](https://www.google.com/intl/zh-CN/chrome/)
+- Potplayer
+- [Tabby](https://github.com/Eugeny/tabby/releases/tag/v1.0.208)
+- [Obsidian](https://obsidian.md/download)
+- [Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html)
+- Postman
+- [Rime](https://rime.im/download/)
+- [Snipaste](https://www.snipaste.com/download.html)
+- [Sublime Text](https://www.sublimetext.com/download)
+- [Geek Uninstaller](https://geekuninstaller.com/download)
+- [WPS Office](https://www.wps.cn/)
+- [网易邮箱大师](https://dashi.163.com/)
+- [网易云音乐](https://music.163.com/#/download)
+- [微信](https://windows.weixin.qq.com/?lang=zh_CN)
+- [迅雷](https://pc.xunlei.com/)
+- [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
+- [落霞孤鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
+- [Maven](https://maven.apache.org/download.cgi)
+- [Nodejs](https://nodejs.org/dist/v20.15.0/node-v20.15.0-x64.msi)
+- [Gradle](https://gradle.org/releases/)
+- [7-Zip](https://www.7-zip.org/download.html)
+- [Typora](https://github.com/iuxt/src/releases/download/2.0/typora-setup-x64_0.9.96.exe)
+
 
 ## Jetbrains
 
@@ -102,7 +124,6 @@ TODO
 - [MyBatisCodeHelperPro](https://plugins.jetbrains.com/plugin/9837-mybatiscodehelperpro)
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 - [One Dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
-- [Project Label](https://plugins.jetbrains.com/plugin/8032-project-label)
 - [RestfulTool](https://plugins.jetbrains.com/plugin/14280-restfultool)
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 
