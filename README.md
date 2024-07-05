@@ -92,11 +92,11 @@ alias gitapl='find . -type d -name .git -exec sh -c "cd \"{}\"/../; echo \"\n`pw
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [Eudic](https://www.eudic.net/v4/en/app/download)
 - [Google Chrome](https://www.google.com/intl/zh-CN/chrome/)
-- Potplayer
+- [Potplayer](https://potplayer.daum.net/?lang=en)
 - [Tabby](https://github.com/Eugeny/tabby/releases/tag/v1.0.208)
 - [Obsidian](https://obsidian.md/download)
 - [Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html)
-- Postman
+- [Hoppscotch](https://hoppscotch.io/)
 - [Rime](https://rime.im/download/)
 - [Snipaste](https://www.snipaste.com/download.html)
 - [Sublime Text](https://www.sublimetext.com/download)
@@ -113,7 +113,6 @@ alias gitapl='find . -type d -name .git -exec sh -c "cd \"{}\"/../; echo \"\n`pw
 - [Gradle](https://gradle.org/releases/)
 - [7-Zip](https://www.7-zip.org/download.html)
 - [Typora](https://github.com/iuxt/src/releases/download/2.0/typora-setup-x64_0.9.96.exe)
-
 
 ## Jetbrains
 
