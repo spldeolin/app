@@ -1,4 +1,4 @@
-# software-collection
+# app
 
 ## macOS
 
