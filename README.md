@@ -45,13 +45,13 @@ brew install --cask easyfind
 brew install --cask eudic
 brew install --cask google-chrome
 brew install --cask iina
+brew install --cask insomnia
 brew install --cask iterm2
 brew install --cask itsycal
 brew install --cask mos
 brew install --cask obsidian
 brew install --cask corretto@8
 echo 'export JAVA_HOME=`/usr/libexec/java_home`' >> ~/.zshrc && source ~/.zshrc
-brew install --cask reqable
 brew install --cask squirrel
 brew install --cask snipaste
 brew install --cask sublime-text
@@ -96,7 +96,7 @@ alias gitapl='find . -type d -name .git -exec sh -c "cd \"{}\"/../; echo \"\n`pw
 - [Tabby](https://github.com/Eugeny/tabby/releases/tag/v1.0.208)
 - [Obsidian](https://obsidian.md/download)
 - [Corretto 8](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html)
-- [Reqable](https://reqable.com/)
+- [Insomnia](https://insomnia.rest/download)
 - [Rime](https://rime.im/download/)
 - [Snipaste](https://www.snipaste.com/download.html)
 - [Sublime Text](https://www.sublimetext.com/download)
